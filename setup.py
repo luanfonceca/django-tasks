@@ -3,7 +3,7 @@
 from setuptools import setup, find_packages
 
 setup(name='django-tasks',
-      version='0.1',
+      version='0.2',
       description='Python Django Tasks.',
       author='Luan Fonseca',
       author_email='luanfonceca@gmail.com',

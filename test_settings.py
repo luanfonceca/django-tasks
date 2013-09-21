@@ -6,5 +6,5 @@ DATABASES = {
 
 INSTALLED_APPS = (
     'south',
-    'tasks',
+    'django_tasks',
 )
