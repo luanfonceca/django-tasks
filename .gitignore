@@ -1,0 +1,7 @@
+*.log
+*.pot
+*.pyc
+*.egg-info
+*.egg
+build
+dist
